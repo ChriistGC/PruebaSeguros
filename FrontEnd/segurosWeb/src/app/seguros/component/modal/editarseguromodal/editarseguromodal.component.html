@@ -1,0 +1,23 @@
+<h2 mat-dialog-title>Editar Usuario</h2>
+<div mat-dialog-content>
+  <mat-form-field>
+    <mat-label>Nombre</mat-label>
+    <input matInput [(ngModel)]="editedData.nombre">
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Codigo</mat-label>
+    <input matInput [(ngModel)]="editedData.codigo">
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Suma</mat-label>
+    <input matInput type="number" [(ngModel)]="editedData.suma">
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Prima</mat-label>
+    <input matInput type="number" [(ngModel)]="editedData.prima">
+  </mat-form-field>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onCancelarClick()">Cancelar</button>
+  <button mat-button color="primary" (click)="onGuardarClick()">Guardar</button>
+</div>

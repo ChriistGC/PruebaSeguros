@@ -1,0 +1,38 @@
+<div class="d-flex justify-content-center align-items-center" >
+    <mat-card class="card">
+      <mat-card-header>
+        <mat-card-title>Crear Seguro</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        <table>
+          <tr>
+            <td><mat-form-field>
+              <mat-label>Nombre</mat-label>
+              <input matInput type="text" [(ngModel)]="nombre">
+            </mat-form-field></td>
+            <td><mat-form-field>
+              <mat-label>Codigo</mat-label>
+              <input matInput type="text" [(ngModel)]="codigo">
+            </mat-form-field></td>
+          </tr>
+        </table>
+        <table>
+          <tr>
+            <td><mat-form-field>
+              <mat-label>Suma</mat-label>
+              <input matInput type="number" [(ngModel)]="suma">
+            </mat-form-field></td>
+            <td><mat-form-field>
+              <mat-label>Prima</mat-label>
+              <input matInput type="number" [(ngModel)]="prima">
+            </mat-form-field></td>
+          </tr>
+        </table>
+      </mat-card-content>
+      <mat-card-actions class="card-content">
+        <button mat-button class="button" (click)="crearSeguro()">
+          Crear
+        </button>
+      </mat-card-actions>
+    </mat-card>
+  </div>

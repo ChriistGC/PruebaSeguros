@@ -1,0 +1,196 @@
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\appsettings.json
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\SegurosAPI.exe
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\SegurosAPI.deps.json
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\SegurosAPI.runtimeconfig.json
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\SegurosAPI.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\SegurosAPI.pdb
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.csproj.AssemblyReference.cache
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.AssemblyInfoInputs.cache
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.AssemblyInfo.cs
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.csproj.CoreCompileInputs.cache
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets\msbuild.SegurosAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SegurosAPI.props
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SegurosAPI.props
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SegurosAPI.props
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\scopedcss\bundle\SegurosAPI.styles.css
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.csproj.CopyComplete
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\refint\SegurosAPI.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.pdb
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.genruntimeconfig.cache
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\obj\Debug\net6.0\ref\SegurosAPI.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\MediatR.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\FluentValidation.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Proyectos\Proyectos NET CORE\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\appsettings.json
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\SegurosAPI.exe
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\SegurosAPI.deps.json
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\SegurosAPI.runtimeconfig.json
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\SegurosAPI.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\SegurosAPI.pdb
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\FluentValidation.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\MediatR.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.csproj.AssemblyReference.cache
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.AssemblyInfoInputs.cache
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.AssemblyInfo.cs
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.csproj.CoreCompileInputs.cache
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets\msbuild.SegurosAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.SegurosAPI.props
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SegurosAPI.props
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SegurosAPI.props
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\scopedcss\bundle\SegurosAPI.styles.css
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.csproj.CopyComplete
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\refint\SegurosAPI.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.pdb
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\SegurosAPI.genruntimeconfig.cache
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\obj\Debug\net6.0\ref\SegurosAPI.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\EPPlus.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Proyectos\ProyectoSeguro\Backend\SegurosAPI\SegurosAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll

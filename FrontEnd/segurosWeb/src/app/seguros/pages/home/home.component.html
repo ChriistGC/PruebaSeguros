@@ -1,0 +1,55 @@
+<mat-sidenav-container fullscreen>
+    <mat-sidenav #sidenav mode="push">
+        <mat-toolbar>
+            <span>Menú</span>
+            <span class="spacer"></span>
+            <button mat-icon-button (click)="sidenav.toggle()">
+                <mat-icon>menu</mat-icon>
+            </button>
+        </mat-toolbar>
+
+        <mat-nav-list>
+            <a routerLink="./" mat-list-item (click)="sidenav.toggle()">
+                <mat-icon matListItemIcon>home</mat-icon>
+                <span>Home</span>
+            </a>
+            <a routerLink="./cliente" mat-list-item (click)="sidenav.toggle()">
+                <mat-icon matListItemIcon>person_add</mat-icon>
+                <span>Agregar Cliente</span>
+            </a>
+            <a routerLink="./seguro" mat-list-item (click)="sidenav.toggle()">
+                <mat-icon matListItemIcon>note_add</mat-icon>
+                <span>Agregar Seguro</span>
+            </a>
+            <a routerLink="./buscarcliente" mat-list-item (click)="sidenav.toggle()">
+                <mat-icon matListItemIcon>manage_search</mat-icon>
+                <span>Busqueda por cedula</span>
+            </a>
+            <a routerLink="./buscarseguro" mat-list-item (click)="sidenav.toggle()">
+                <mat-icon matListItemIcon>find_in_page</mat-icon>
+                <span>Busqueda por codigo</span>
+            </a>
+            <a routerLink="./asignar" mat-list-item (click)="sidenav.toggle()">
+                <mat-icon matListItemIcon>assignment</mat-icon>
+                <span>Asignar Seguro</span>
+            </a>
+        </mat-nav-list>
+    </mat-sidenav>
+
+    <mat-toolbar>
+        <button mat-icon-button (click)="sidenav.toggle()">
+            <mat-icon>menu</mat-icon>
+        </button>
+        <div class="container">
+            <a routerLink="./lista" class="title-link">
+                <h2 class="text-center mt-1 mb-1">Seguros</h2>
+            </a>
+        </div>
+    </mat-toolbar>
+
+    <div class="container router">
+        <router-outlet></router-outlet>
+    </div>
+
+
+</mat-sidenav-container>

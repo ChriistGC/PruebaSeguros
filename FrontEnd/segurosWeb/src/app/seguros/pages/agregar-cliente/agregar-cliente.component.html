@@ -1,0 +1,49 @@
+<div class="d-flex justify-content-center align-items-center" >
+    <mat-card class="card ">
+        <mat-card-header>
+            <mat-card-title>Crear Cliente</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+            <table >
+                <tr>
+                    <td><mat-form-field >
+                            <mat-label>Nombre</mat-label>
+                            <input matInput type="text" [(ngModel)]="nombre">
+                        </mat-form-field>
+                    </td>
+                    <td><mat-form-field >
+                            <mat-label>Cedula</mat-label>
+                            <input matInput type="text" [(ngModel)]="cedula">
+                        </mat-form-field>
+                    </td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td><mat-form-field>
+                            <mat-label>Telefono</mat-label>
+                            <input matInput type="text" [(ngModel)]="telefono">
+                        </mat-form-field>
+                    </td>
+                    <td><mat-form-field>
+                            <mat-label>Edad</mat-label>
+                            <input matInput type="number" [(ngModel)]="edad">
+                        </mat-form-field>
+                    </td>
+                </tr>
+            </table>
+        </mat-card-content>
+        <mat-card-actions class="card-content">
+            <button mat-button class="button" (click)="crearCliente()">
+                Crear
+            </button>
+            <button mat-button >
+                <label for="fileInput" mat-button class="button" >
+                    Subir documento
+                </label>
+                <input id="fileInput" type="file" (change)="archivoSeleccionado($event)" accept=".xlsx" style="display: none;">
+            </button>
+        </mat-card-actions>
+    </mat-card>
+
+</div>

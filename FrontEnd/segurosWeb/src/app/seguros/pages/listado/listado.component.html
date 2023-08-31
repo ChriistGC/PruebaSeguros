@@ -1,0 +1,33 @@
+<div class="container">
+  <a routerLink="./lista" class="title-link">
+      <h2 class="text-center mt-1 mb-1">Lista de Seguros</h2>
+  </a>
+</div>
+<div class="row">
+
+  <div class="col-md-3 col-sm-6 col-xs-12 mb-3" *ngFor="let seguro of seguros">
+    <mat-card class="card" >
+      <mat-card-header>
+        <mat-card-title>{{seguro.nombre}}</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        <p>
+          <strong>Nombre: </strong>{{seguro.nombre}}<br>
+          <strong>Codigo: </strong>{{seguro.codigo}}<br>
+          <strong>Suma: </strong>$ {{seguro.suma}}<br>
+          <strong>Prima: </strong>$ {{seguro.prima}}<br>
+        </p>
+      </mat-card-content>
+      <mat-card-actions class="card-content">
+        <button mat-button class="button" (click)="abrirModalEditarSeguro(seguro)">
+            Editar
+        </button>
+        <button mat-button class="button" (click)="abrirConfirmacionEliminacion(seguro)">
+          Eliminar
+      </button>
+    </mat-card-actions>
+  
+    </mat-card>
+  
+  </div>
+</div>

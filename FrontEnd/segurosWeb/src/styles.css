@@ -1,0 +1,50 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.spacer {
+    flex: 1 1 auto;
+}
+
+.title-link {
+    color: #ffffff;
+    /* Cambia el color */
+    text-decoration: none;
+    /* Elimina el subrayado por defecto */
+}
+
+.card {
+    height: 100%;
+    color: #ffffff;
+}
+
+.card-content {
+    flex-grow: 1;
+    align-items: flex-end;
+    /* Alinea el contenido en la parte inferior */
+}
+
+.space {
+    margin-left: 10px;
+}
+
+.checkbox-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* 3 columnas */
+    grid-gap: 10px;
+    /* Espacio entre los checkboxes */
+}
+
+.checkbox-label {
+    display: flex;
+    align-items: center;
+}
