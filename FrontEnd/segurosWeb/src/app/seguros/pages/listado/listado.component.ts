@@ -37,7 +37,7 @@ export class ListadoComponent implements OnInit {
     });
 
     dialogRef.afterClosed().subscribe(seguro => {
-      this.seguroService.putUsuario(seguro.id!, seguro)
+      this.seguroService.putSeguro(seguro.id!, seguro)
         .subscribe((response) => {
           this.obtenerSeguros()
           this.abrirAlerta("Seguro actualizado correctamente")
