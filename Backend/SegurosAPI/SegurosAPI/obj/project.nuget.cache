@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L+PokZt83VKgiEFNzMl5fAxtfrADisXBTzjSF3SpSMZ/hMrYf1dY06aCOIc1fCK1WtCG3rxzjw0iE1kM0qtUkQ==",
+  "dgSpecHash": "x2c1ineXSI+S/Xw2CCzd6NP7z25BnCryw5OvfWc2W0RBvb8jYalporoQttSLHDwflvI9eBUDlzls8bUa6YRDWw==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\ProyectoSeguro\\Backend\\SegurosAPI\\SegurosAPI\\SegurosAPI.csproj",
+  "projectFilePath": "D:\\Proyectos\\PruebaSeguros\\Backend\\SegurosAPI\\SegurosAPI\\SegurosAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kriz_\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\kriz_\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

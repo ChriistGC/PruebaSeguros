@@ -25,10 +25,27 @@ namespace SegurosAPI.Servicio.SeguroServicio
             {
                 RuleFor(r => r.nombre)
                     .NotEmpty()
-                    .When(r => !string.IsNullOrEmpty(r.nombre));
+                    .Must(nombre => IsString(nombre))
+                    .WithMessage("Nombre solo admite letras.");
                 RuleFor(r => r.codigo)
-                    .NotEmpty()
-                    .When(r => !string.IsNullOrEmpty(r.codigo));
+                    .NotEmpty();
+                RuleFor(r => r.suma)
+                    .NotEmpty();
+                RuleFor(r => r.prima)
+                    .NotEmpty();
+            }
+
+            //Valida que solo reciba letras
+            private bool IsString(string input)
+            {
+                foreach (char c in input)
+                {
+                    if (!char.IsLetter(c))
+                    {
+                        return false;
+                    }
+                }
+                return true;
             }
         }
 

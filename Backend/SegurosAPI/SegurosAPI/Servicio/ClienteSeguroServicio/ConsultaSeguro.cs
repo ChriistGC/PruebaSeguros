@@ -29,26 +29,21 @@ namespace SegurosAPI.Servicio.ClienteSeguroServicio
             }
             public async Task<SeguroDetalladoDTO> Handle(obtenerSeguro request, CancellationToken cancellationToken)
             {
-                try
+                var seguro = await _context.Seguro
+                    .Include(x => x.clienteLink)
+                    .ThenInclude(y => y.cliente)
+                    .FirstOrDefaultAsync(a => a.codigo == request.Codigo);
+
+                if (seguro == null)
                 {
-                    var seguro = await _context.Seguro
-                        .Include(x => x.clienteLink)
-                        .ThenInclude(y => y.cliente)
-                        .FirstOrDefaultAsync(a => a.codigo == request.Codigo);
-
-                    if (seguro == null)
-                    {
-                        throw new ManejadorException(HttpStatusCode.NotFound, new { ClienteSeguro = "No se encontró el seguro" });
-                    }
-
-                    var seguroDTO = _mapper.Map<Seguro, SeguroDetalladoDTO>(seguro);
-
-                    return seguroDTO;
+                    throw new ManejadorException(HttpStatusCode.NotFound, new { ClienteSeguro = "No se encontró el seguro" });
                 }
-                catch (Exception ex) {
-                    throw new ManejadorException(HttpStatusCode.InternalServerError, new { ClienteSeguro = "Error Interno" });
-                }
+
+                var seguroDTO = _mapper.Map<Seguro, SeguroDetalladoDTO>(seguro);
+
+                return seguroDTO;
             }
         }
     }
 }
+

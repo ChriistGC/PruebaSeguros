@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\ProyectoSeguro\\Backend\\SegurosAPI\\SegurosAPI\\SegurosAPI.csproj": {}
+    "D:\\Proyectos\\PruebaSeguros\\Backend\\SegurosAPI\\SegurosAPI\\SegurosAPI.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\ProyectoSeguro\\Backend\\SegurosAPI\\SegurosAPI\\SegurosAPI.csproj": {
+    "D:\\Proyectos\\PruebaSeguros\\Backend\\SegurosAPI\\SegurosAPI\\SegurosAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\ProyectoSeguro\\Backend\\SegurosAPI\\SegurosAPI\\SegurosAPI.csproj",
+        "projectUniqueName": "D:\\Proyectos\\PruebaSeguros\\Backend\\SegurosAPI\\SegurosAPI\\SegurosAPI.csproj",
         "projectName": "SegurosAPI",
-        "projectPath": "D:\\Proyectos\\ProyectoSeguro\\Backend\\SegurosAPI\\SegurosAPI\\SegurosAPI.csproj",
+        "projectPath": "D:\\Proyectos\\PruebaSeguros\\Backend\\SegurosAPI\\SegurosAPI\\SegurosAPI.csproj",
         "packagesPath": "C:\\Users\\kriz_\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\ProyectoSeguro\\Backend\\SegurosAPI\\SegurosAPI\\obj\\",
+        "outputPath": "D:\\Proyectos\\PruebaSeguros\\Backend\\SegurosAPI\\SegurosAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

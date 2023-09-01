@@ -23,10 +23,25 @@ namespace SegurosAPI.Servicio.SeguroServicio
         {
             public CrearSeguroValidator()
             {
-                RuleFor(r => r.nombre).NotEmpty();
+                RuleFor(r => r.nombre).NotEmpty()
+                    .Must(nombre => IsString(nombre))
+                    .WithMessage("Nombre solo admite letras."); 
                 RuleFor(r => r.codigo).NotEmpty();
                 RuleFor(r => r.suma).NotEmpty();
                 RuleFor(r => r.prima).NotEmpty();
+            }
+
+            //Valida que solo reciba letras
+            private bool IsString(string input)
+            {
+                foreach (char c in input)
+                {
+                    if (!char.IsLetter(c))
+                    {
+                        return false;
+                    }
+                }
+                return true;
             }
         }
 

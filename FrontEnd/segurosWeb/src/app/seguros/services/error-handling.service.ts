@@ -10,10 +10,10 @@ export class ErrorHandlingService {
 
   formatError(error: HttpErrorResponse): string {
     if (error.status >= 400 && error.status < 500) {
-      const clientMessage = this.getFormattedErrors(error.error?.errores?.Cliente, 'Cliente');
-      const seguroMessage = this.getFormattedErrors(error.error?.errores?.Seguro, 'Seguro');
-      const archivoMessage = this.getFormattedErrors(error.error?.errores?.Archivo, 'Archivo');
-      const ClienteSeguroMessage = this.getFormattedErrors(error.error?.errores?.ClienteSeguro, 'ClienteSeguro');
+      const clientMessage = this.getFormattedError(error.error?.errores?.Cliente, 'Cliente');
+      const seguroMessage = this.getFormattedError(error.error?.errores?.Seguro, 'Seguro');
+      const archivoMessage = this.getFormattedError(error.error?.errores?.Archivo, 'Archivo');
+      const ClienteSeguroMessage = this.getFormattedError(error.error?.errores?.ClienteSeguro, 'ClienteSeguro');
       const combinedMessages = [clientMessage, seguroMessage, archivoMessage, ClienteSeguroMessage].filter(msg => !!msg).join('\n\n');
       
       return combinedMessages || 'Error desconocido';
@@ -25,10 +25,20 @@ export class ErrorHandlingService {
     }
   }
 
+  private getFormattedError(error: any, type: string): string {
+    if (error && Array.isArray(error)) {
+      return this.getFormattedErrors(error, type);
+    } else if (error) {
+      return `${type}:\n${error}`;
+    }
+    return '';
+  }
+  
   private getFormattedErrors(errors: any[], type: string): string {
     if (!errors || !Array.isArray(errors)) {
       return '';
     }
-    return `${type}:\n${errors.map((e: any) => e.ErrorMessage).join("\n")}`;
+    const errorMessages = errors.map((e: any) => e.ErrorMessage).join('\n');
+    return `${type}:\n${errorMessages}`;
   }
 }

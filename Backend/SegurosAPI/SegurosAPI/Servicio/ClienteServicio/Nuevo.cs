@@ -20,22 +20,40 @@ namespace SegurosAPI.Servicio.ClienteServicio
 
         public class CrearClienteValidator : AbstractValidator<CrearCliente>
         {
-            public CrearClienteValidator() {
-                RuleFor(r => r.Nombre).NotEmpty();
-                RuleFor(r => r.Cedula).NotEmpty()
+            public CrearClienteValidator()
+            {
+                RuleFor(r => r.Cedula)
                     .Length(10)
                     .Must(cedula => IsNumeric(cedula))
-                    .WithMessage("Debe ser numero.");
-                RuleFor(r=>r.Telefono).NotEmpty()
+                    .WithMessage("Cédula solo admite número.");
+                RuleFor(r => r.Telefono)
                     .Length(10)
                     .Must(telefono => IsNumeric(telefono))
-                    .WithMessage("Debe ser numero.");
+                    .WithMessage("Telefono solo admite número.");
+                RuleFor(r => r.Nombre)
+                    .NotEmpty()
+                    .Must(nombre => IsString(nombre))
+                    .WithMessage("Nombre solo admite letras.");
                 RuleFor(r => r.Edad).NotEmpty();
             }
 
+            //Valida que solo reciba números
             private bool IsNumeric(string value)
             {
                 return int.TryParse(value, out _);
+            }
+
+            //Vallida que solo reciba letras
+            private bool IsString(string input)
+            {
+                foreach (char c in input)
+                {
+                    if (!char.IsLetter(c))
+                    {
+                        return false;
+                    }
+                }
+                return true;
             }
         }
 
